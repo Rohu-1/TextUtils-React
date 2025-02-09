@@ -1,6 +1,6 @@
 {
   "homepage": "https://rohu-1.github.io/TextUtils-ReaCt",
-  "name": "my-app",
+  "name": "TextUtils",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
